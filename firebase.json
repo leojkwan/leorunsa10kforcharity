@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "dist",
+    "target": "leoisrunninga10kforcharity",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

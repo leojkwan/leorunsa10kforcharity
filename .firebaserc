@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "production": "test-leap-f6ae2",
+    "default": "test-leap-f6ae2"
+  },
+  "targets": {
+    "website-build-prod": {
+      "hosting": {
+        "leoisrunninga10kforcharity": [
+          "leoisrunninga10kforcharity"
+        ]
+      }
+    }
+  }
+}
